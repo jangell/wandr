@@ -1,0 +1,1 @@
+Two parts - one, an app for the way I draw out trips while I'm still figuring them out, and two, get better at code.
